@@ -19,6 +19,7 @@
 ├── data.zip                    # Fashion MNIST 데이터셋 
 ├── fashion_MNIST.ipynb         # 데이터셋 분석 보고서
 ├── README.md                   # 프로젝트 설명 파일
+├── requirements.txt            # 필요 라이브러리가 명시된 파일
 └── test_data.zip               # 테스트 시 업로드할 파일
 ```
 
